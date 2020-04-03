@@ -1,4 +1,4 @@
-# ChildrensPlayAreas_public
+# Children's Play Areas
 
 This project generates the NYC Parks **Children's Play Areas (CPA) dataset** (as points, not polygons). These points are centroids of clusters of play equipment meant to be used by children (notably, excluding basketball courts, adult equipment and other amenities currently *included* in Parks' *Playground* data set).
 
