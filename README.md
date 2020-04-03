@@ -7,7 +7,7 @@ This project generates the NYC Parks **Children's Play Areas (CPA) dataset** (as
 
 Children's Play Areas (CPAs) are points that mark clusters of play units
 within NYC Parks. While otherwise known as playgrounds, this term is
-deliberately avoided because properties named as playgrounds within Parks may
+deliberately avoided because properties or subproperties named as playgrounds may
 contain more than just play units (e.g., adult fitness equipment,
 basketball/handball courts, etc.), or may not contain play units at all.
 
