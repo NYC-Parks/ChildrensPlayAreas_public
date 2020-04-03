@@ -23,7 +23,7 @@ data product to remain current, the script is scheduled to run daily whereby CPA
 attributes and source data from which they are derived remain consistent and in
 sync.
 
-Detailed documentation of the script and source code can be viewed in a Jupyter notebook on [GitHub](https://github.com/NYC-Parks/ChildrensPlayAreas/blob/master/script_folder/daily/generate_cpa_20190926.ipynb) or [GitLab](http://ubuntu-virtual/root/childrensplayareas/blob/master/script_folder/daily/generate_cpa_20190926.ipynb).
+Detailed documentation of the script and source code can be viewed in a [Jupyter notebook on GitHub](https://github.com/NYC-Parks/ChildrensPlayAreas/blob/master/script_folder/daily/generate_cpa_20190926.ipynb)
 
 ### Purpose of this document
 
