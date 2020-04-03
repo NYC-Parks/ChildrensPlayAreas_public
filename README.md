@@ -1,4 +1,4 @@
-# Children's Play Areas
+# Children's Play Areas (CPAs)
 
 [CPAs on Open Data](https://data.cityofnewyork.us/dataset/Children-s-Play-Areas-CPAs-/j55h-3upk)
 
