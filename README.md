@@ -1,7 +1,6 @@
 # Children's Play Areas
 
 [CPAs on Open Data](https://data.cityofnewyork.us/dataset/Children-s-Play-Areas-CPAs-/j55h-3upk)
-[map](file:///C:/Users/Julie.Tsitron/Downloads/cpa_map_20200401.html)
 
 This project generates the NYC Parks **Children's Play Areas (CPA) dataset** (as points, not polygons). These points are centroids of clusters of play equipment meant to be used by children (notably, excluding basketball courts, adult equipment and other amenities currently *included* in Parks' *Playground* data set).
 
